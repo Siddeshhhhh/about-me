@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Data Enthusiast </h3>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jasverma-hub&theme=gruvbox" alt="Trophies for jasverma-hub" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Siddeshhhhh&theme=gruvbox" alt="Trophies for Sideshhhhh" />
 </p>
 
 ---
@@ -33,11 +33,7 @@
   <a href="https://github.com/Siddeshhhhh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"></a>
   <a href="https://github.com/Siddeshhhhh" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"></a>
   <a href="https://github.com/Siddeshhhhh" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40"></a>
-  <a href="https://github.com/Siddeshhhhh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"></a>
   <a href="https://github.com/Siddeshhhhh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"></a>
-  <a href="https://github.com/Siddeshhhhh" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" alt="Snowflake" width="40" height="40"></a>
-  <a href="https://github.com/Siddeshhhhh" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="40" height="40"></a>
-  <a href="https://github.com/Siddeshhhhh" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/apache/apache-icon.svg" alt="Apache" width="40" height="40"></a>
 </p>
 
 
@@ -45,13 +41,13 @@
 
 <h3 align="left">📈 GitHub Stats</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasverma-hub&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddeshhhhh&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jasverma-hub&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Siddeshhhhh&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jasverma-hub&theme=radical" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Siddeshhhhh&theme=radical" alt="GitHub Streak Stats" />
 </p>
 
 ---
