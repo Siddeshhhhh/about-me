@@ -8,7 +8,7 @@
 ---
 
 - 🔭 **Currently Working As:** Full Stack Engineer at **USNetwork**, Albacete, Spain  
-- 🌱 **Exploring:** **Snowflake** | Preparing for **AWS Certified Solutions Architect - Associate (SAA-C03) & Microsoft PowerBI Certified PL300**  
+- 🌱 **Exploring:** **GenAI** | Preparing for **AWS Certified Solutions Architect - Associate (SAA-C03) & Microsoft PowerBI Certified PL300**  
 - 💬 **Open to discussions on:** **Python, SQL, Machine Learning, Deep learning and Data Engineering**  
 - 📫 **Contact Me:** siddeshpanikkar1609@gmail.com 
 - 📄 **My Resume:** [View Here](https://docs.google.com/document/d/1aTX-UQKe6yFPQ0M8q51hrLgZu-FO2OywaAWPR4Ie6jg/edit?tab=t.0)  
